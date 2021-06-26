@@ -8,6 +8,8 @@ export default function Home() {
       <Head>
         <title>Next.js Starter!</title>
         <link rel="icon" href="/favicon.ico" />
+        <meta property="og:image" content="https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" />
+        <meta property="og:description" content="This is Home page" />
       </Head>
 
       <main>
